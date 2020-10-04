@@ -1,0 +1,71 @@
+#    -*- mode: org -*-
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:t reveal_control:t
+#+OPTIONS: reveal_mathjax:t reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_MARGIN: 0.2
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: night
+#+REVEAL_HLEVEL: 999
+#+REVEAL_EXTRA_CSS: ./presentation.css
+#+REVEAL_ROOT: file:///home/hamza/tmp/reveal.js
+#+TITLE: My Title Goes Here
+#+AUTHOR: Your Name Goes Here
+#+EMAIL: your.email@goes.here
+* First Ever Ecommerce Transaction?
+ 1971: The ARPANET is used to arrange a cannabis sale between students at the Stanford Artificial Intelligence Laboratory and the Massachusetts Institute of Technology,
+#+CAPTION: Ready for takeoff
+#+NAME:   fig:SED-HR4049
+[[https://brewminate.com/wp-content/uploads/2019/03/031219-76-History-Internet-Technology.jpg]]
+
+* What is ecommerce?
+** Definition galore - It's a lot of things to a lot of people
+* What do you think is the main difference between ecommerce and old commerce
+** Supply Chain
+** Reach
+** ???
+* Relationships!
+** What does it mean to be in a successful relationship?
+Same perspective, same limited view (180 Degree View)
+* Dynamics of Digital Markets
+** Fragmentation
+** Defragmentation
+** Aggregation
+* Secret of Digital Success
+** Market segment of one
+** Aggregates Don't matter
+ Fullfillment supply chain etc are just a means to an end.
+** Automation is a dirty word
+- Margins are difficult in all or nothing markets
+
+* How to Develop a Digital Product?
+** Understand:
+**** Discover the business opportunity, the audience, the competition, the value proposition, and define metrics of success.
+- Gather Data
+- Users not Data
+- But don't over do it
+
+** Diverge: Explore, develop and iterate creative ways of solving the problem, regardless of feasibility.
+- Riata Phelatay Hain
+- Make a Mess not Consensus
+- Crazy Eights (Eight Crazy ideas over 1 well thought out idea)
+
+** Converge
+**** Identify ideas that fit the next product cycle and explore them in further detail through storyboarding.
+** Prototype
+**** Design and prepare prototype(s) that can be tested with people.
+** Test
+**** Conduct 1:1 usability testing with 5-6 people from the product's primary target audience. Ask good questions.
+* Agiity in Regulated Markets
+** Who you need to date?
+- B2B, B2C, Hybrid
+** Cultivate a culture of upskilling and learning
+- Like today. Thank to Ms. Sadaf
+- Achievements tied to KPIs is low value
+- Develop Autonomy
+- Encourage LOTS and LOTS of Criticisim, especially from employees lower down in the hiearchy.
+** Things to think about
+*** Startup or Bust
+*** Red Teaming
